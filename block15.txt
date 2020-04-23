@@ -1,0 +1,5 @@
+Block lies on NORTH EAST boundary
+-76.30 39.74
+-76.30 39.10
+-75.39 39.10
+-75.39 39.74
