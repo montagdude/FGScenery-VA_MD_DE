@@ -1,6 +1,6 @@
 # FGScenery-VA_MD_DE
 
-Custom FlightGear scenery for Virginia, Maryland, Delaware, and Washington, DC
+Custom FlightGear scenery for Virginia, Maryland, Delaware, and DC.
 Data sources:
 * Landcover: National landcover database (NLCD):
   https://www.usgs.gov/centers/eros/science/national-land-cover-database
@@ -18,7 +18,9 @@ The git repository includes the scripts used to generate the scenery, but it doe
 
 Installation and Usage
 ================================================================================
-Under construction.
+To install, download VA_MD_DE.zip from the Releases page and extract the files wherever you like. Point FlightGear to the directory with the --fg-scenery command line option, the FG_SCENERY environment variable, or add it to Additional Scenery Folders in the GUI. To use the custom materials, download FGData.zip, extract, and copy the contents to the appropriate locations in your FGData directory (aka $FG_ROOT). For example, eastern-us.xml goes in $FG_ROOT/Materials/regions, and the textures go in $FG_ROOT/Textures/Terrain.
+
+For the best experience, if your computer can handle it, turn on OSM buildings and detailed roads and pylons under Rendering Options.
 
 Screenshots
 ================================================================================
